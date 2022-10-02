@@ -1,7 +1,8 @@
 function onClickText_42() {
-  history.back();
+  location.href = 'https://htsge.github.io/cuk/pages/Home/index.html'
+;
 }
 
 function onClickText_43() {
-  location.href = '../Page_1HomeMobileDevs/Page_1HomeMobileDevs.html';
+  location.href = 'https://2wkj.com/';
 }
